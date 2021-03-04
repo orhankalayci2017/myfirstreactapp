@@ -21,13 +21,13 @@ function App() {
 
           still one another message added 
 
-          forth line
+          forth lne
 
-          fifth lin
+          fifth lne
+          
+          sixth lne
 
-          sixth line
-
-          seventh line
+          seventh lne
 
           8th line
         </a>
